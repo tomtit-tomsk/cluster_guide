@@ -1,4 +1,4 @@
-![logo b697186e (1)](https://user-images.githubusercontent.com/73885381/228186631-3833588d-8ee7-4cf9-88bf-216b018604b7.png)
+![logo b697186e (1) (1)](https://user-images.githubusercontent.com/73885381/228187286-325746e4-16aa-47e5-a15e-ce589496f9df.png)
 
 # Официальное руководство пользователя
 https://cluster-guide.readthedocs.io/
