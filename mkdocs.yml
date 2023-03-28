@@ -1,5 +1,5 @@
-site_name: ITCluster
+site_name: Руководство
 
 
 extra_css:
-  - _css/style_css
+  - docs/_css/style_css
