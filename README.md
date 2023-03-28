@@ -17,5 +17,5 @@
 3. Раздел 3
 
 ## Полезные ссылки
-[Руководство пользователя](https://profteam.su/)
-[Платформа IT-кластера](https://cluster-guide.readthedocs.io/ru/latest/)
+1. [Руководство пользователя](https://profteam.su/)
+2. [Платформа IT-кластера](https://cluster-guide.readthedocs.io/ru/latest/)
