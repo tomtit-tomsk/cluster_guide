@@ -1,2 +1,5 @@
-# cluster_guide
-Руководство пользователя!
+# Официальное руководство пользователя
+https://cluster-guide.readthedocs.io/
+
+# Платформа IT-кластера
+https://profteam.su/
