@@ -7,9 +7,10 @@
   Платформа IT-кластера Томской области
 </h1>
 <p align="center">
-    <em><b>[Официальное руководство пользователя](https://cluster-guide.readthedocs.io/ru/latest/)</b></em>
+    <em><b>Официальное руководство пользователя</b></em>
 </p>
 
+[Перейти к руководству](https://cluster-guide.readthedocs.io/ru/latest/)
 
 ## Разделы руководства
 1. Раздел 1
