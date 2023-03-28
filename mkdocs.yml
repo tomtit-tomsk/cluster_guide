@@ -2,4 +2,4 @@ site_name: Руководство
 
 
 extra_css:
-  - docs/_css/style_css
+  - _css/style_css
