@@ -11,5 +11,11 @@
 </p>
 
 
-# Официальное руководство пользователя
-https://cluster-guide.readthedocs.io/
+## Разделы руководства
+1. Раздел 1
+2. Раздел 2
+3. Раздел 3
+
+## Полезные ссылки
+[Руководство пользователя](https://profteam.su/)
+[Платформа IT-кластера](https://cluster-guide.readthedocs.io/ru/latest/)
