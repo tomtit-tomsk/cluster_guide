@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: VKBottle
+site_description: Awesome VK framework
+
+extra:
+  disqus: ""
+
+nav:
+  - Туториал:
+  - Документация:
+      - Интерфейсы высокого уровня:
+      - Интерфейсы низкого уровня:
+      - Дополнительные инструменты:
+
+theme:
+  name: material
