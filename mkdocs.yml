@@ -2,4 +2,4 @@ site_name: IT-кластер
 
 
 extra_css:
-  - _css/style_css
+  - _css/style.css
