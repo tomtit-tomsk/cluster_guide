@@ -1,1 +1,5 @@
 site_name: ITCluster
+
+
+extra_css:
+  - _css/style_css
