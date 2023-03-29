@@ -1,3 +1,6 @@
 div.rst-versions.rst-badge{
   display: none;
 }
+.col-md-12 p{
+  display: none;
+}
