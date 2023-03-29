@@ -1,5 +1,10 @@
 site_name: IT-кластер
 
+theme:
+  logo: logo.svg
+  language: ru
+  name: material
+  custom_dir: overrides
 
 extra_css:
   - _css/style.css
