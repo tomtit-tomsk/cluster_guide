@@ -7,6 +7,9 @@ theme:
   name: material
   custom_dir: overrides
 
+  features:
+    - navigation.tabs
+
   palette:
     primary: indigo
 
