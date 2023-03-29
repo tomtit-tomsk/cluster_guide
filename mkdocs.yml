@@ -2,6 +2,7 @@ site_name: IT-кластер
 
 theme:
   logo: logo.svg
+  favicon: logo.svg
   language: ru
   name: material
   custom_dir: overrides
