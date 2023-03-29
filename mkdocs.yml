@@ -1,4 +1,4 @@
-site_name: IT-кластер
+site_name: Руководство IT Кластера
 
 theme:
   logo: logo.svg
@@ -6,6 +6,9 @@ theme:
   language: ru
   name: material
   custom_dir: overrides
+
+  palette:
+    primary: indigo
 
 extra_css:
   - _css/style.css
