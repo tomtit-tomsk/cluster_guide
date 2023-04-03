@@ -10,4 +10,4 @@
     <em><b>Официальное руководство пользователя</b></em>
 </p>
 
-## [Перейти к руководству](https://cluster-guide.readthedocs.io/ru/latest/#_1)
+[Перейти к руководству](https://cluster-guide.readthedocs.io/ru/latest/#_1)
