@@ -10,7 +10,4 @@
     <em><b>Официальное руководство пользователя</b></em>
 </p>
 
-## Разделы руководства
-1. [Главная страница](https://cluster-guide.readthedocs.io/ru/latest/#_1)
-2. Раздел 2
-3. Раздел 3
+[Перейти к руководству](https://cluster-guide.readthedocs.io/ru/latest/#_1)
